@@ -1,0 +1,15 @@
+i.icon {
+	font-size: 2em;
+}
+
+.container.main {
+	margin-top: 6em;
+}
+
+.blog {
+	margin: 1em;
+}
+
+#delete {
+	display: inline;
+}
